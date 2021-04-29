@@ -1,5 +1,5 @@
 # Daily Expense Tracker
-![Screenshotof the App](https://github.com/Kathan2608/Daily-Expense-Tracker/blob/main/Screenshot%202021-04-29%20234925.PNG?raw=true)
+![Screenshot of the App](https://github.com/Kathan2608/Daily-Expense-Tracker/blob/main/Screenshot%202021-04-29%20234925.png?raw=true)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
